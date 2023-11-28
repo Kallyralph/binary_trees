@@ -1,0 +1,1 @@
+The "0x1D C - Binary Trees" project explores the fundamentals of binary tree structures in the context of the C programming language. The programs cover various aspects, including the creation of binary tree nodes, tree traversal methods, and common binary tree operations.
